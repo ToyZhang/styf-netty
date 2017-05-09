@@ -166,3 +166,6 @@ java.io.IOException: 远程主机强迫关闭了一个现有的连接。
 [INFO] [2017-05-08 20:25:27][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3108bc: startup date [Mon May 08 20:25:27 CST 2017]; root of context hierarchy
 [INFO] [2017-05-08 20:25:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
 [INFO] [2017-05-08 20:25:28][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-05-08 20:25:34][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3108bc: startup date [Mon May 08 20:25:34 CST 2017]; root of context hierarchy
+[INFO] [2017-05-08 20:25:34][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2017-05-08 20:25:35][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
